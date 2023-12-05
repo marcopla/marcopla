@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- <div>
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcopla&hide=stars,contribs&count_private=true&show_icons=true&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopla&layout=compact&theme=dracula">
 </div>
@@ -12,6 +12,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SAAS">
 </div>
-<br/> -->
+<br/>
 
 
