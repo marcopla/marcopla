@@ -1,5 +1,6 @@
-### Hi there 👋
-You can contact me on **marco.pla@gmail.com**
+Greetings dear visitor!🧙‍♂️
+Welcome to my code scrolls 📜 
+I hope everything is organized in such a way that you have a great experience here!
 <div>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcopla&hide=stars,contribs&count_private=true&show_icons=true&theme=dracula"> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopla&layout=compact&theme=dracula">
