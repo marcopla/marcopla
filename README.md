@@ -12,10 +12,7 @@
 </div>
 
 
-![image](https://github.com/marcopla/marcopla/assets/26593883/0f1be359-9467-4676-bbc8-cbbd0c3fd52f)
 
-
-![Absolute_Reality_v16_In_a_dimly_lit_room_a_skynner_medieval_es_1](https://github.com/marcopla/marcopla/assets/26593883/2ab081ce-42e4-4071-a923-223498538004) 
 
 
 <div style="display:inline_block">
