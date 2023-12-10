@@ -1,4 +1,4 @@
-<p>🧙‍♂️Greetings dear visitor!🔮/p>
+<p>🧙‍♂️Greetings dear visitor!🔮</p>
 <p>Welcome to my code scrolls 📜 </p>
 <p>I hope everything is organized in such a way that you have a great experience here!</p>
 <div>
