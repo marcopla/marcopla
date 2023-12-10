@@ -1,5 +1,5 @@
-<p>🧙‍♂️Greetings dear visitor!🔮</p>
-<p>Welcome to my code scrolls 📜 </p>
+<p>🧙‍♂️Greetings visitor!</p>
+<p>Welcome to my code library</p>
 <img scr="https://github.com/marcopla/marcopla/assets/26593883/fd496eec-e770-4edc-bfe3-97148c1b339f">
 
 
