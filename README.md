@@ -3,13 +3,15 @@
 <p>I hope everything is organized in such a way that you have a great experience here!</p>
 <img scr="https://github.com/marcopla/marcopla/assets/26593883/fd496eec-e770-4edc-bfe3-97148c1b339f">
 
-![image](https://github.com/marcopla/marcopla/assets/26593883/dbdde654-0cba-42fb-ab61-10d4d7a71122)
+
 
 <div>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcopla&hide=stars,contribs&count_private=true&show_icons=true&theme=dracula"> -->
   <img width:100 height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopla&layout=compact&theme=dracula">
   
 </div>
+![Absolute_Reality_v16_In_a_dimly_lit_room_a_skynner_medieval_es_1](https://github.com/marcopla/marcopla/assets/26593883/2ab081ce-42e4-4071-a923-223498538004)
+
 
 <div style="display:inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
