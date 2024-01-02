@@ -5,18 +5,10 @@
 
 <img src="https://github.com/marcopla/marcopla/assets/26593883/fd496eec-e770-4edc-bfe3-97148c1b339f" align="right" width="300px"/>
 
-* some text floating around the image
-*  some text floating around the image
-*  some text floating around the image
-*  some text floating around the image
-* some text floating around the image
 
-some text floating around the image
-some text floating around the image
-some text floating around the image
 <br clear="right"/>
 
-A "newline". This text doesn't float anymore, is left-aligned.
+
 
 
 
