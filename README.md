@@ -1,8 +1,7 @@
 <p>🧙‍♂️Greetings visitor!</p>
 <p>Welcome to my code library:</p>
 
-Projects: 
-*Store
+
 
 <img src="https://github.com/marcopla/marcopla/assets/26593883/fd496eec-e770-4edc-bfe3-97148c1b339f" align="right" width="300px"/>
 
@@ -37,6 +36,7 @@ Projects:
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   
   
 </div>
