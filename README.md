@@ -1,29 +1,6 @@
-<p>🧙‍♂️Greetings visitor!</p>
-<p>Welcome to my code library:</p>
+# **Stack**
 
 
-
-<img src="https://github.com/marcopla/marcopla/assets/26593883/fd496eec-e770-4edc-bfe3-97148c1b339f" align="right" width="300px"/>
-
-
-<br clear="right"/>
-
-
-
-
-
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcopla&hide=stars,contribs&count_private=true&show_icons=true&theme=dracula"> -->
-  <!--<img width:100 height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopla&layout=compact&theme=dracula"> -->
-
-  
-
-
-
-
-
-<div>
-  
-  <hr>
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -38,8 +15,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   
-  
-</div>
-<br/>
-
-
